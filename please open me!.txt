@@ -1,0 +1,8 @@
+to open the app make this steps:
+
+1-double click on the (main manu.html).
+
+2-after you double click on  the (main manu.html) the
+app will be open.
+
+3-after the app is opened you can listen to the Qu'an.
